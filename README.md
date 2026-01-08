@@ -1,4 +1,4 @@
-# ⏱️ Estudos e Práticas com Apache Airflow
+# Estudos e Práticas com Apache Airflow
 
 Este repositório reúne **estudos, práticas e experimentos** com o **Apache Airflow**, desenvolvidos ao longo de cursos, bootcamps e treinamentos pessoais, com foco em **orquestração de pipelines de dados**.
 
@@ -6,7 +6,7 @@ O objetivo principal é consolidar conceitos fundamentais do Airflow, como DAGs,
 
 ---
 
-## 🎯 Objetivos do Repositório
+## Objetivos do Repositório
 - Praticar a criação de DAGs no Apache Airflow
 - Entender o fluxo de execução de pipelines de dados
 - Aplicar conceitos de ETL (Extração, Transformação e Carga)
@@ -15,7 +15,7 @@ O objetivo principal é consolidar conceitos fundamentais do Airflow, como DAGs,
 
 ---
 
-## 🛠️ Tecnologias Utilizadas
+## Tecnologias Utilizadas
 - Python
 - Apache Airflow
 - Conceitos de ETL
@@ -23,9 +23,9 @@ O objetivo principal é consolidar conceitos fundamentais do Airflow, como DAGs,
 
 ---
 
-## 📂 Estrutura dos Arquivos
+## Estrutura dos Arquivos
 
-### 🔹 DAGs de Prática e Estudo
+### DAGs de Prática e Estudo
 - **`meu_primeiro_dag_pratica.py`**  
   Meu primeiro DAG criado no Apache Airflow, com foco em aprendizado e entendimento da estrutura básica.
 
@@ -54,7 +54,7 @@ O objetivo principal é consolidar conceitos fundamentais do Airflow, como DAGs,
 
 ---
 
-### 📑 Relatórios e Documentação
+### Relatórios e Documentação
 - **`Relatorio Bootcamp.pdf`**  
   Relatório técnico relacionado às atividades desenvolvidas no bootcamp, contendo explicações e imagens.
 
@@ -63,14 +63,14 @@ O objetivo principal é consolidar conceitos fundamentais do Airflow, como DAGs,
 
 ---
 
-## 🧠 Observações Importantes
+## Observações Importantes
 - Este repositório **não representa um único projeto final**, mas sim um **conjunto de práticas e estudos**.
 - Alguns arquivos foram desenvolvidos no contexto de cursos e bootcamps, enquanto outros são práticas autorais para aprendizado.
 - O foco está no **processo de aprendizado**, não apenas no resultado final.
 
 ---
 
-## 🚀 Próximos Passos / Possíveis Evoluções
+## Próximos Passos / Possíveis Evoluções
 - Padronização dos DAGs
 - Criação de um pipeline mais completo e autoral
 - Separação futura de projetos maiores em repositórios dedicados
